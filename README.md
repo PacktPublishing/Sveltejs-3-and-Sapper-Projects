@@ -9,7 +9,7 @@ Our first project, a vCard generator app, will demonstrate the modularity and re
 
 Our second project will be a fully functional Kanban board application, similar to Trello. This application will also have effective state management, by making use of stores and other key Svelte features.
 
-Our final application will be the foundations of an e-commerce site, through which we will use the features of Svelte that we learned in previous projects. However, we will build this application with Sapper, the official Svelte framework. We will learn how to create web apps with Sapper and master its most useful features, such as routing and prefetching.
+Our final application will be based on the previous Kanban board application but making use of Sapper, the official Svelte framework. However, we will build this application with Sapper, the official Svelte framework. We will learn how to create web apps with Sapper and master its most useful features, such as routing and prefetching.
 
 We will also provide an introduction to testing Sapper applications with Cypress, and we finish the course by deploying our application in two different ways: as a static page, and as an SEO-optimized server-side rendered (SSR) application.
 
